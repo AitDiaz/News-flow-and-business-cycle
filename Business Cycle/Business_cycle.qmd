@@ -1,9 +1,9 @@
 ::: callout-note
 # On oil prices inflation transmission mechanisms
 
-![](images/Oil price and 10 year nominal rate.png)
+![](images/Oil%20price%20and%2010%20year%20nominal%20rate.png)
 
-![](images/Oil price and PPI.png)
+![](images/Oil%20price%20and%20PPI.png)
 
 What brings consumer inflation is actually monetary policy
 :::
@@ -15,9 +15,9 @@ The March 2026 PMI releases from S&P Global, together with the GEP Global Supply
 
 In the eurozone, the slowdown is already evident in high-frequency activity indicators. The Composite PMI fell to 50.7 (from 51.9), a nine-month low and below its long-run average, signaling near-stagnation. Crucially, the composition of growth has deteriorated. Services—previously the main engine—have nearly stalled (50.2), while manufacturing output remains relatively resilient. This divergence is consistent with a cost-push shock: manufacturing benefits in the short term from order backlogs and inventory adjustments, while services—more sensitive to real income—react faster to the erosion of purchasing power.
 
-Demand dynamics have turned decisively weaker. New orders declined for the first time since mid-2025, led by services, and export demand remains subdued. The deterioration in forward-looking indicators is particularly concerning: business expectations have fallen to near one-year lows, hiring has stalled, and employment has begun to decline modestly. This aligns with a classic transmission channel where uncertainty and margin compression feed into labor demand, reinforcing the slowdown via weaker household income and consumption.
+Demand dynamics have turned decisively weaker. New orders declined for the first time since mid-2025, **led by services**, and export demand remains subdued. The deterioration in forward-looking indicators is particularly concerning: business expectations have fallen to near one-year lows, hiring has stalled, and employment has begun to decline modestly. This aligns with a classic transmission channel where uncertainty and margin compression feed into labor demand, reinforcing the slowdown via weaker household income and consumption.
 
-At the same time, price dynamics are moving in the opposite direction. Input cost inflation has surged to a three-year high, with manufacturing input prices recording an especially sharp monthly increase. Services are also experiencing strong cost pressures, suggesting broad-based inflationary forces. However, output price inflation has risen only modestly, indicating limited pass-through. This implies margin compression, a key feature of early stagflationary environments: firms face rising costs but cannot fully transmit them to consumers due to w
+At the same time, price dynamics are moving in the opposite direction. Input cost inflation has surged to a three-year high, with manufacturing input prices recording an especially sharp monthly increase. Services are also experiencing strong cost pressures, suggesting broad-based inflationary forces. However, output price inflation has risen only modestly, indicating limited pass-through. This implies margin compression, a key feature of early stagflationary environments: firms face rising costs but cannot fully transmit them to consumers due to to weakening demand.
 
 Sectoral data reinforce this picture of heterogeneous but weakening activity. Across Europe, only 11 of 19 sectors expanded in March, down from 15 in February. Demand conditions have faltered broadly, with contractions in sectors such as tourism, financials, and real estate. Consumer-facing sectors are particularly weak, reflecting the squeeze on real incomes. At the same time, input price inflation has accelerated across almost all sectors, with energy-intensive industries (e.g., chemicals, transportation) facing the strongest pressures. This combination—weak demand and rising costs—is structurally negative for profitability and investment.
 
