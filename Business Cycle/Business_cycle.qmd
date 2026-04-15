@@ -1,5 +1,5 @@
 ::: callout-note
-# On oil prices inflation transmission mechanisms
+# On oil prices and inflation transmission mechanisms
 
 ![](images/Oil%20price%20and%2010%20year%20nominal%20rate.png)
 
@@ -7,6 +7,8 @@
 
 What brings consumer inflation is actually monetary policy
 :::
+
+# Difussion index
 
 ::: callout-note
 # On firms sentiment on for march 2026
